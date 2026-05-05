@@ -1,0 +1,4 @@
+vol_regime,raw_signal,adjusted_signal,dynamic_multiplier,daily_allocation_usd
+Low,0.008,0.098,1.346,134.564
+Medium,0.007,0.105,1.369,136.901
+High,-0.088,-0.012,1.129,112.87

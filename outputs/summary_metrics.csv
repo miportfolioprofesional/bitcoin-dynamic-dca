@@ -1,0 +1,13 @@
+Metric,Value
+Backtest Start,2019-01-01
+Backtest End,2026-01-13
+Days,2570
+Total USD Invested (Strategy),"$347,006.12"
+Total USD Invested (DCA),"$257,000.00"
+Total BTC Accumulated (Strategy),19.1629 BTC
+Total BTC Accumulated (DCA),14.0320 BTC
+BTC Extra,5.130913 BTC
+ROI Strategy,426.30%
+ROI DCA,420.35%
+Win Rate (365d windows),100.00%
+SPD Improvement (sats/USD),62.44
